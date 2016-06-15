@@ -4,3 +4,5 @@ pull to local git
 1. local change ver 1
 
 2. try make confilct when local pull -local
+
+3. try make confilct when local pull -remote - change from 2 to 3
