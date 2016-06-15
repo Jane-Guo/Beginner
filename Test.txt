@@ -8,3 +8,5 @@ pull to local git
 3. try make confilct when local pull -remote - change from 2 to 3
 
 4. remote change for merge to local
+
+5. local change for merge to remote
