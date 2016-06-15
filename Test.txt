@@ -9,4 +9,8 @@ pull to local git
 
 4. remote change for merge to local
 
+<<<<<<< HEAD
 5. local change for merge to remote
+=======
+5. remote change
+>>>>>>> d7905649a671237bc5a81b5e958ac083936374e7
