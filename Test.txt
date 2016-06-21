@@ -14,5 +14,9 @@ pull to local git
 6. remote change
 
 7. change master
+
 8. add object
+
 9 commit object
+
+change from remote
